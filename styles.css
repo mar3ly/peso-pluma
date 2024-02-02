@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://www.jsonline.com/gcdn/presto/2023/04/25/PLOU/49caa029-c035-49cb-a9ab-495a27c69f71-peso.pluma.jpg?crop=2086,2086,x300,y0);
+}
+
+table, th, td{
+    border: 1px solid rgb(141, 140, 140);
+}
+ table{
+background-color: rgb(199, 106, 223);
+
+ }
+
